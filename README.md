@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28906161/README.md)[Uploading READM<div align="center">
-
 # Lucas Braga
 
 **Desenvolvedor Fullstack · Mobile & Backend**
@@ -47,20 +45,10 @@ Tenho base sólida em POO, modelagem relacional com SQLite e automação de tare
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=scudelerlucasb-a11y&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scudelerlucasb-a11y&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
----
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/SEU-USUARIO](https://linkedin.com/in/SEU-USUARIO)
+- LinkedIn: [linkedin.com/in/SEU-USUARIO](www.linkedin.com/in/lucas-braga-scudeler-664826382)
 - Portfólio: [SEU-SITE.com](https://SEU-SITE.com)
 
-E.md…]()
+
