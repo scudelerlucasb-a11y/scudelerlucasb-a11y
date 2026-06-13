@@ -4,8 +4,8 @@
 
 Flutter · Dart · Python · São Paulo, Brasil
 
-[![LinkedIn](www.linkedin.com/in/lucas-braga-scudeler-664826382)
-[![Portfólio](file:///C:/Users/PC/Downloads/index%20(1).html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-SITE.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scudelerlucasb-a11y)
 
 </div>
@@ -48,7 +48,7 @@ Tenho base sólida em POO, modelagem relacional com SQLite e automação de tare
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/SEU-USUARIO](www.linkedin.com/in/lucas-braga-scudeler-664826382)
-- Portfólio: [SEU-SITE.com](https://SEU-SITE.com)
+- LinkedIn: [linkedin.com](www.linkedin.com/in/lucas-braga-scudeler-664826382)
+- Portfólio: [SITE.com](file:///C:/Users/PC/Downloads/index%20(1).html)
 
 
