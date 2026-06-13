@@ -5,7 +5,7 @@
 Flutter · Dart · Python · São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-braga-scudeler-664826382)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](file:///C:/Users/PC/Downloads/index%20(1).html)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/scudelerlucasb-a11y/scudelerlucasb-a11y.github.io-/blob/d88994415ef889382cdcc5b67732bb5388e14eb0/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scudelerlucasb-a11y)
 
 </div>
@@ -49,6 +49,6 @@ Tenho base sólida em POO, modelagem relacional com SQLite e automação de tare
 ## Contato
 
 - LinkedIn: [linkedin.com](www.linkedin.com/in/lucas-braga-scudeler-664826382)
-- Portfólio: [SITE.com](file:///C:/Users/PC/Downloads/index%20(1).html)
+- Portfólio: [SITE.com](https://github.com/scudelerlucasb-a11y/scudelerlucasb-a11y.github.io-/blob/d88994415ef889382cdcc5b67732bb5388e14eb0/index.html)
 
 
