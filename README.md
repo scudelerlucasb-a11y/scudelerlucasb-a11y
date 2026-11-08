@@ -16,7 +16,7 @@ São Paulo, Brasil
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação** na **Faculdade Impacta** (São Paulo). Desenvolvo projetos em **Python**, **SQL** e **análise de dados com Pandas**, e tenho base em **C#** e em bancos de dados relacionais (SQLite).
+Sou estudante de **Ciência da Computação** na **Faculdade Impacta** (São Paulo). Desenvolvo projetos em **Python**, **SQL** e **análise de dados com Pandas**, e tenho base em **C#**, em bancos de dados relacionais (SQLite) e em fundamentos de **Excel** e **Power BI**.
 
 Estou em constante aprendizado e busco minha primeira oportunidade de **estágio em dados ou desenvolvimento de software** para aplicar meus conhecimentos em projetos reais e evoluir junto a um time experiente.
 
@@ -29,7 +29,7 @@ Estou em constante aprendizado e busco minha primeira oportunidade de **estágio
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) |
-| **Dados** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Dados** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Banco de Dados** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square) |
 
@@ -50,13 +50,16 @@ Estou em constante aprendizado e busco minha primeira oportunidade de **estágio
 
 ## 🎓 Formação & Certificações
 
-* **Bacharelado em Ciência da Computação** — IMPACTA (Em andamento)
+* **Bacharelado em Ciência da Computação** — IMPACTA (2º semestre, conclusão prevista em Jan 2030)
 * **Fundamentos de Inteligência Artificial e Análise de Dados** — SENAI
 * **Nano Course: Python Development** — FIAP (80h)
 * **Programação em C#** — SENAI "Roberto Simonsen" (60h)
+* **Excel** e **Power BI** (fundamentos) — Santander Open Academy (8h)
+* **SQLite Fundamentals** — Coddy 
 * **Trilha de Conhecimento: Linguagem de Programação Python** — Fundação Bradesco (53h)
 * **Administrando Banco de Dados** — Fundação Bradesco (15h)
 * **Santander Coders - Python** — Santander Open Academy
+* **Cursos de inglês (3)** — Santander Open Academy (8h)
 
 ---
 
